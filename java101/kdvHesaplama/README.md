@@ -1,4 +1,4 @@
-##KDV HESAPLAMA
+#KDV HESAPLAMA
 
 ---
 [patika.dev](https://app.patika.dev/)
