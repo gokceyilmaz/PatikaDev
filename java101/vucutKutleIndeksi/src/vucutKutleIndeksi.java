@@ -14,5 +14,8 @@ public class vucutKutleIndeksi  {
         indeks = kilo / (boy * boy);
         System.out.println("Vücut kütle indeksiniz: " + indeks);
 
+        if (indeks < 18.5){
+            System.out.print("Zayıfsınız");
+        }
     }
 }
