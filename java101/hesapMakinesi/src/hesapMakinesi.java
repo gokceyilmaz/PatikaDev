@@ -27,6 +27,8 @@ public class hesapMakinesi {
             case 4:
                 System.out.println("Bölme:"+ n1 +"/"+ n2 +"="+ + (n1/n2));
                 break;
+            default:
+                System.out.println("Hatalı giriş yaptınız!");
         }
     }
 }
