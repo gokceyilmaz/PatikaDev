@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/notOrtalama/notOrtalama.iml" filepath="$PROJECT_DIR$/notOrtalama/notOrtalama.iml" />
       <module fileurl="file://$PROJECT_DIR$/sinifGecmeDurumu/sinifGecmeDurumu.iml" filepath="$PROJECT_DIR$/sinifGecmeDurumu/sinifGecmeDurumu.iml" />
       <module fileurl="file://$PROJECT_DIR$/taksimetreTutari/taksimetreTutari.iml" filepath="$PROJECT_DIR$/taksimetreTutari/taksimetreTutari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ucakBileti/ucakBileti.iml" filepath="$PROJECT_DIR$/ucakBileti/ucakBileti.iml" />
       <module fileurl="file://$PROJECT_DIR$/vucutKutleIndeksi/vucutKutleIndeksi.iml" filepath="$PROJECT_DIR$/vucutKutleIndeksi/vucutKutleIndeksi.iml" />
     </modules>
   </component>
